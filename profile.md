@@ -1,6 +1,6 @@
 # Personal Profile
 ## Name
-mohammed nabhan
+mohammed nabhangit add profile.md
 ## Interests
 - Backend Development
 - Web Technologies
@@ -11,3 +11,7 @@ mohammed nabhan
 - Backend fundamentals
 ## Fun Fact
 I enjoy learning while listening to music ��
+
+## Hobbies
+- Coding small projects
+- Reading tech blogs
